@@ -41,14 +41,14 @@
 .title {
     background-color: #efefef;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 12px;
 }
 
 .title-main {
     width: 800px;
     display: block;
     margin: 0 auto;
-    padding: 30px;
+    padding: 20px;
 }
 
 .title-header {
@@ -62,10 +62,10 @@
 }
 
 .content {
-    /* display: flex; */
     justify-content: space-between;
     margin-left: -1rem;
     flex-flow: row wrap;
+    font-size: 15px;
 }
 
 .content-item {
@@ -96,13 +96,8 @@
 
 }
 
-.oval {
-    width: 100px;
-    color: #111;
-    padding: 10px;
-  }
-  span {
+span {
     padding-top: 70px;
     display: inline-block;
-  }
+}
 
